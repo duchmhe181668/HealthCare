@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\HealthcareAppointment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50A51929-A59E-44FA-B3AF-4CA6AF894047}|HealthcareAppointment.csproj|c:\\users\\admin\\source\\repos\\healthcareappointment\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A51929-A59E-44FA-B3AF-4CA6AF894047}|HealthcareAppointment.csproj|solutionrelative:controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A51929-A59E-44FA-B3AF-4CA6AF894047}|HealthcareAppointment.csproj|c:\\users\\admin\\source\\repos\\healthcareappointment\\business\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A51929-A59E-44FA-B3AF-4CA6AF894047}|HealthcareAppointment.csproj|solutionrelative:business\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A51929-A59E-44FA-B3AF-4CA6AF894047}|HealthcareAppointment.csproj|c:\\users\\admin\\source\\repos\\healthcareappointment\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A51929-A59E-44FA-B3AF-4CA6AF894047}|HealthcareAppointment.csproj|solutionrelative:controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A51929-A59E-44FA-B3AF-4CA6AF894047}|HealthcareAppointment.csproj|c:\\users\\admin\\source\\repos\\healthcareappointment\\business\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A51929-A59E-44FA-B3AF-4CA6AF894047}|HealthcareAppointment.csproj|solutionrelative:business\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A51929-A59E-44FA-B3AF-4CA6AF894047}|HealthcareAppointment.csproj|c:\\users\\admin\\source\\repos\\healthcareappointment\\business\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A51929-A59E-44FA-B3AF-4CA6AF894047}|HealthcareAppointment.csproj|solutionrelative:business\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A51929-A59E-44FA-B3AF-4CA6AF894047}|HealthcareAppointment.csproj|c:\\users\\admin\\source\\repos\\healthcareappointment\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A51929-A59E-44FA-B3AF-4CA6AF894047}|HealthcareAppointment.csproj|solutionrelative:controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A51929-A59E-44FA-B3AF-4CA6AF894047}|HealthcareAppointment.csproj|c:\\users\\admin\\source\\repos\\healthcareappointment\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A51929-A59E-44FA-B3AF-4CA6AF894047}|HealthcareAppointment.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A51929-A59E-44FA-B3AF-4CA6AF894047}|HealthcareAppointment.csproj|c:\\users\\admin\\source\\repos\\healthcareappointment\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A51929-A59E-44FA-B3AF-4CA6AF894047}|HealthcareAppointment.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A51929-A59E-44FA-B3AF-4CA6AF894047}|HealthcareAppointment.csproj|c:\\users\\admin\\source\\repos\\healthcareappointment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A51929-A59E-44FA-B3AF-4CA6AF894047}|HealthcareAppointment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A51929-A59E-44FA-B3AF-4CA6AF894047}|HealthcareAppointment.csproj|c:\\users\\admin\\source\\repos\\healthcareappointment\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A51929-A59E-44FA-B3AF-4CA6AF894047}|HealthcareAppointment.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\HealthcareAppointment\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\HealthcareAppointment\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:33:32.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\HealthcareAppointment\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\HealthcareAppointment\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:32:47.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\HealthcareAppointment\\Business\\DoctorService.cs",
+              "RelativeDocumentMoniker": "Business\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\HealthcareAppointment\\Business\\DoctorService.cs",
+              "RelativeToolTip": "Business\\DoctorService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAxwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:32:10.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\HealthcareAppointment\\Business\\PatientService.cs",
+              "RelativeDocumentMoniker": "Business\\PatientService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\HealthcareAppointment\\Business\\PatientService.cs",
+              "RelativeToolTip": "Business\\PatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:31:44.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\HealthcareAppointment\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\HealthcareAppointment\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwDsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:25:12.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\HealthcareAppointment\\Business\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "Business\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\HealthcareAppointment\\Business\\AppointmentService.cs",
+              "RelativeToolTip": "Business\\AppointmentService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwBQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:24:00.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\HealthcareAppointment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\HealthcareAppointment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:21:12.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\HealthcareAppointment\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\HealthcareAppointment\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:19:37.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\HealthcareAppointment\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\HealthcareAppointment\\Models\\Appointment.cs",
+              "RelativeToolTip": "Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:19:10.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\HealthcareAppointment\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\HealthcareAppointment\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:18:37.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
